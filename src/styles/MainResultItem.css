@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.titleH1 {
+    font-size: 15px;
+    color: grey;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.moneyH1 {
+    font-size: 30px;
+}
+
+.moneyH1 span {
+    font-size: 20px;
+}

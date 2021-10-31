@@ -1,0 +1,11 @@
+span {
+    font-size: 20px;
+}
+
+td {
+    text-align: left;
+    padding: 8px;
+    font-size: 25px;
+    max-width: 100px;
+    word-wrap: break-word;
+}

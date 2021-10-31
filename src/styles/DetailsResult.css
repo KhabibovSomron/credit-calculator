@@ -1,0 +1,26 @@
+.myDetailsResult {
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+  display: none;
+}
+
+.myDetailsResult-active {
+  display: flex;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th {
+  background-color: #fac91b;
+}
+  
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}

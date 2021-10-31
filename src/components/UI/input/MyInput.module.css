@@ -1,0 +1,24 @@
+.myInputDiv {
+    margin: 10px 0;
+}
+
+.myInput {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 25px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+label {
+    color: grey;
+
+}

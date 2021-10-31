@@ -1,0 +1,8 @@
+.mySelect {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 25px;
+}

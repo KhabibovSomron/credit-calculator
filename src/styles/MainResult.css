@@ -1,0 +1,18 @@
+.myMainResult {
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.myMainResultwrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.buttonDiv {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}

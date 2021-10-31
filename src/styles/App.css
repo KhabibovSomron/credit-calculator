@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Hauss,Arial,sans-serif;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    background-color: #497e49;
+    min-height: 100vh;
+}
+
+.App {
+    width: 1000px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.logo {
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 30px;
+}
